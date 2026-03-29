@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Bonita Rituals — DESIGN.md palette (HSL) */
+    --background: 29 97% 86%;
+    /* #FDF8F3 cream — dashboard */
+    --foreground: 20 16% 15%;
+    /* #2C2420 charcoal */
+
+    --card: 40 100% 99%;
+    /* #FFFDF9 warm-white */
+    --card-foreground: 20 16% 15%;
+
+    --popover: 40 100% 99%;
+    --popover-foreground: 20 16% 15%;
+
+    --primary: 40 82% 46%;
+    /* #D4A017 gold */
+    --primary-foreground: 20 16% 15%;
+
+    --secondary: 34 78% 92%;
+    /* #FAEBD7 peach */
+    --secondary-foreground: 20 16% 15%;
+
+    --muted: 30 30% 90%;
+    --muted-foreground: 29 13% 48%;
+    /* #8C7B6B warm-gray */
+
+    --accent: 39 87% 40%;
+    /* #C4820A */
+    --accent-foreground: 40 100% 99%;
+
+    --destructive: 5 61% 40%;
+    /* #A63228 danger */
+    --destructive-foreground: 40 100% 99%;
+
+    --border: 30 25% 83%;
+    --input: 30 25% 88%;
+    --ring: 40 82% 46%;
+
+    --radius: 0.25rem;
+    /* 4px — cards; md=2px inputs; sm=1px buttons */
+
+    /* Status (referenced in badge component) */
+    --success: 138 25% 39%;
+    /* #4A7C59 */
+    --warning: 39 90% 40%;
+    /* #C4820A */
+    --danger: 5 61% 40%;
+    /* #A63228 */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-size: 15px;
+    line-height: 1.6;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display), Georgia, serif;
+  }
+}
+
+/* Signature canvas placeholder */
+.signature-placeholder {
+  @apply absolute inset-0 flex items-center justify-center pointer-events-none select-none;
+  font-family: var(--font-display), Georgia, serif;
+  font-style: italic;
+  font-size: 18px;
+  color: rgba(140, 123, 107, 0.4);
+}

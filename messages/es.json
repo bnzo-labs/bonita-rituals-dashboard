@@ -1,0 +1,149 @@
+{
+  "consent": {
+    "title": "Bonita Rituals",
+    "subtitle": "Glow like it's sacred",
+    "sections": {
+      "client_info": "Información del cliente",
+      "preferences": "Tus preferencias",
+      "health": "Información de salud y estilo de vida",
+      "technician": "Mapa de pestañas (solo técnica)",
+      "consent_text": "Consentimiento informado",
+      "photo": "Permiso de fotos"
+    },
+    "fields": {
+      "full_name": "Nombre y apellido",
+      "full_name_placeholder": "Tu nombre completo",
+      "phone": "Número de teléfono",
+      "phone_placeholder": "+1 514 000 0000",
+      "previous_extensions": "¿Has tenido extensiones de pestañas antes?",
+      "contacts": "¿Usas lentes de contacto o gafas?",
+      "wear_type": "¿Cómo usarías las extensiones?",
+      "wear_type_long_term": "Uso continuo (largo plazo)",
+      "wear_type_special": "Ocasión especial",
+      "look_type": "¿Qué tipo de look prefieres?",
+      "look_natural": "Natural",
+      "look_dramatic": "Dramático",
+      "health_flags": "Condiciones de salud relevantes (selecciona todas las que apliquen)",
+      "dry_eyes": "Ojos secos",
+      "allergies": "Alergias",
+      "oily_skin": "Piel grasa",
+      "sensitive_eyes": "Ojos sensibles",
+      "hay_fever": "Fiebre del heno",
+      "alopecia": "Alopecia",
+      "thyroid": "Problemas de tiroides",
+      "chemotherapy": "Quimioterapia reciente",
+      "technique": "Técnica",
+      "classic": "Clásica",
+      "brazilian_v": "Brasileña V",
+      "hawaiian_v": "Hawaiana V",
+      "egyptian_v": "Egipcia V",
+      "style": "Estilo",
+      "style_natural": "Natural",
+      "style_cat_eye": "Cat Eye",
+      "style_squirrel": "Squirrel",
+      "style_doll": "Doll",
+      "thickness": "Grosor",
+      "curl": "Curvatura",
+      "brand": "Marca",
+      "technician_note": "Esta sección será completada por tu técnica durante la cita.",
+      "notes": "Notas adicionales",
+      "notes_placeholder": "Alergias, preferencias especiales, etc.",
+      "photo_permission": "Autorizo a Bonita Rituals a tomar y publicar fotos de mi trabajo en redes sociales.",
+      "photo_tag_username": "Usuario de Instagram para etiquetarme (opcional)",
+      "photo_tag_placeholder": "@tuusuario",
+      "age_confirmed": "Confirmo que soy mayor de 18 años.",
+      "signature": "Firma digital"
+    },
+    "consent_body": "Al firmar este formulario, confirmo que la información proporcionada es correcta y que entiendo los cuidados necesarios post-servicio. Acepto los términos y condiciones del servicio de Bonita Rituals.",
+    "yes": "Sí",
+    "no": "No",
+    "submit": "Firmar y enviar",
+    "submitting": "Enviando...",
+    "download_pdf": "Descargar PDF",
+    "confirmation_title": "¡Formulario enviado!",
+    "confirmation_body": "Gracias, tu formulario de consentimiento ha sido registrado.",
+    "clear_signature": "Borrar firma",
+    "sign_here": "Firma aquí",
+    "errors": {
+      "required": "Este campo es requerido",
+      "phone_invalid": "Número de teléfono inválido",
+      "signature_required": "La firma es requerida",
+      "age_required": "Debes confirmar tu edad",
+      "submit_failed": "Ocurrió un error al enviar. Intenta de nuevo."
+    }
+  },
+  "dashboard": {
+    "title": "Clientas",
+    "new_client": "Nueva clienta",
+    "search_placeholder": "Buscar por nombre o teléfono...",
+    "columns": {
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "registered": "Registro",
+      "last_service": "Último servicio",
+      "service_type": "Tipo",
+      "payment": "Pago",
+      "signed": "Firmado",
+      "actions": "Acciones"
+    },
+    "status": {
+      "paid": "Pagado",
+      "pending": "Pendiente",
+      "signed": "Firmado",
+      "unsigned": "Sin firmar"
+    },
+    "service_types": {
+      "new_set": "Juego nuevo",
+      "fill": "Relleno",
+      "removal": "Remoción"
+    },
+    "filters": {
+      "all": "Todos",
+      "paid": "Pagados",
+      "pending_payment": "Pago pendiente",
+      "signed": "Firmados",
+      "unsigned": "Sin firmar"
+    },
+    "no_clients": "No hay clientas registradas aún.",
+    "no_results": "No se encontraron resultados.",
+    "view_client": "Ver detalle"
+  },
+  "client_detail": {
+    "back": "← Volver",
+    "registered": "Registrada el",
+    "contact": "Contacto",
+    "consent_history": "Historial de consentimientos",
+    "service_history": "Historial de servicios",
+    "add_service": "Agregar servicio",
+    "download_pdf": "Descargar PDF",
+    "mark_paid": "Marcar como pagado",
+    "notes": "Notas",
+    "save_notes": "Guardar notas",
+    "no_consents": "Sin formularios de consentimiento.",
+    "no_services": "Sin servicios registrados.",
+    "service_form": {
+      "date": "Fecha del servicio",
+      "type": "Tipo de servicio",
+      "price": "Precio (CAD)",
+      "notes": "Notas del servicio",
+      "save": "Guardar servicio"
+    }
+  },
+  "login": {
+    "title": "Acceso técnica",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Ingresar",
+    "submitting": "Ingresando...",
+    "error": "Correo o contraseña incorrectos."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar"
+  }
+}

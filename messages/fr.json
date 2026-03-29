@@ -1,0 +1,149 @@
+{
+  "consent": {
+    "title": "Bonita Rituals",
+    "subtitle": "Glow like it's sacred",
+    "sections": {
+      "client_info": "Informations du client",
+      "preferences": "Vos préférences",
+      "health": "Informations de santé et mode de vie",
+      "technician": "Carte des cils (technicienne uniquement)",
+      "consent_text": "Consentement éclairé",
+      "photo": "Autorisation photo"
+    },
+    "fields": {
+      "full_name": "Nom complet",
+      "full_name_placeholder": "Votre nom complet",
+      "phone": "Numéro de téléphone",
+      "phone_placeholder": "+1 514 000 0000",
+      "previous_extensions": "Avez-vous déjà eu des extensions de cils?",
+      "contacts": "Portez-vous des lentilles de contact ou des lunettes?",
+      "wear_type": "Comment porteriez-vous vos extensions?",
+      "wear_type_long_term": "Usage continu (long terme)",
+      "wear_type_special": "Occasion spéciale",
+      "look_type": "Quel type de look préférez-vous?",
+      "look_natural": "Naturel",
+      "look_dramatic": "Dramatique",
+      "health_flags": "Conditions de santé pertinentes (sélectionnez tout ce qui s'applique)",
+      "dry_eyes": "Yeux secs",
+      "allergies": "Allergies",
+      "oily_skin": "Peau grasse",
+      "sensitive_eyes": "Yeux sensibles",
+      "hay_fever": "Rhume des foins",
+      "alopecia": "Alopécie",
+      "thyroid": "Problèmes thyroïdiens",
+      "chemotherapy": "Chimiothérapie récente",
+      "technique": "Technique",
+      "classic": "Classique",
+      "brazilian_v": "Brésilienne V",
+      "hawaiian_v": "Hawaïenne V",
+      "egyptian_v": "Égyptienne V",
+      "style": "Style",
+      "style_natural": "Naturel",
+      "style_cat_eye": "Cat Eye",
+      "style_squirrel": "Squirrel",
+      "style_doll": "Doll",
+      "thickness": "Épaisseur",
+      "curl": "Courbure",
+      "brand": "Marque",
+      "technician_note": "Cette section sera complétée par votre technicienne lors du rendez-vous.",
+      "notes": "Notes supplémentaires",
+      "notes_placeholder": "Allergies, préférences spéciales, etc.",
+      "photo_permission": "J'autorise Bonita Rituals à prendre et publier des photos de mon travail sur les réseaux sociaux.",
+      "photo_tag_username": "Nom d'utilisateur Instagram pour me taguer (optionnel)",
+      "photo_tag_placeholder": "@votreutilisateur",
+      "age_confirmed": "Je confirme que j'ai 18 ans ou plus.",
+      "signature": "Signature numérique"
+    },
+    "consent_body": "En signant ce formulaire, je confirme que les informations fournies sont exactes et que je comprends les instructions d'entretien post-service. J'accepte les termes et conditions des services Bonita Rituals.",
+    "yes": "Oui",
+    "no": "Non",
+    "submit": "Signer et envoyer",
+    "submitting": "Envoi en cours...",
+    "download_pdf": "Télécharger le PDF",
+    "confirmation_title": "Formulaire envoyé!",
+    "confirmation_body": "Merci, votre formulaire de consentement a été enregistré.",
+    "clear_signature": "Effacer la signature",
+    "sign_here": "Signez ici",
+    "errors": {
+      "required": "Ce champ est requis",
+      "phone_invalid": "Numéro de téléphone invalide",
+      "signature_required": "La signature est requise",
+      "age_required": "Vous devez confirmer votre âge",
+      "submit_failed": "Une erreur s'est produite. Veuillez réessayer."
+    }
+  },
+  "dashboard": {
+    "title": "Clientes",
+    "new_client": "Nouvelle cliente",
+    "search_placeholder": "Rechercher par nom ou téléphone...",
+    "columns": {
+      "name": "Nom",
+      "phone": "Téléphone",
+      "registered": "Inscription",
+      "last_service": "Dernier service",
+      "service_type": "Type",
+      "payment": "Paiement",
+      "signed": "Signé",
+      "actions": "Actions"
+    },
+    "status": {
+      "paid": "Payé",
+      "pending": "En attente",
+      "signed": "Signé",
+      "unsigned": "Non signé"
+    },
+    "service_types": {
+      "new_set": "Nouveau set",
+      "fill": "Remplissage",
+      "removal": "Retrait"
+    },
+    "filters": {
+      "all": "Tous",
+      "paid": "Payés",
+      "pending_payment": "Paiement en attente",
+      "signed": "Signés",
+      "unsigned": "Non signés"
+    },
+    "no_clients": "Aucune cliente enregistrée pour l'instant.",
+    "no_results": "Aucun résultat trouvé.",
+    "view_client": "Voir le détail"
+  },
+  "client_detail": {
+    "back": "← Retour",
+    "registered": "Inscrite le",
+    "contact": "Contact",
+    "consent_history": "Historique des consentements",
+    "service_history": "Historique des services",
+    "add_service": "Ajouter un service",
+    "download_pdf": "Télécharger le PDF",
+    "mark_paid": "Marquer comme payé",
+    "notes": "Notes",
+    "save_notes": "Enregistrer les notes",
+    "no_consents": "Aucun formulaire de consentement.",
+    "no_services": "Aucun service enregistré.",
+    "service_form": {
+      "date": "Date du service",
+      "type": "Type de service",
+      "price": "Prix (CAD)",
+      "notes": "Notes du service",
+      "save": "Enregistrer le service"
+    }
+  },
+  "login": {
+    "title": "Accès technicienne",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "submitting": "Connexion...",
+    "error": "E-mail ou mot de passe incorrect."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "consent": {
+    "title": "Bonita Rituals",
+    "subtitle": "Glow like it's sacred",
+    "sections": {
+      "client_info": "Client Information",
+      "preferences": "Your Preferences",
+      "health": "Health & Lifestyle Information",
+      "technician": "Lash Map (Technician Only)",
+      "consent_text": "Informed Consent",
+      "photo": "Photo Permission"
+    },
+    "fields": {
+      "full_name": "Full name",
+      "full_name_placeholder": "Your full name",
+      "phone": "Phone number",
+      "phone_placeholder": "+1 514 000 0000",
+      "previous_extensions": "Have you had lash extensions before?",
+      "contacts": "Do you wear contact lenses or glasses?",
+      "wear_type": "How would you wear your extensions?",
+      "wear_type_long_term": "Ongoing use (long term)",
+      "wear_type_special": "Special occasion",
+      "look_type": "What type of look do you prefer?",
+      "look_natural": "Natural",
+      "look_dramatic": "Dramatic",
+      "health_flags": "Relevant health conditions (select all that apply)",
+      "dry_eyes": "Dry eyes",
+      "allergies": "Allergies",
+      "oily_skin": "Oily skin",
+      "sensitive_eyes": "Sensitive eyes",
+      "hay_fever": "Hay fever",
+      "alopecia": "Alopecia",
+      "thyroid": "Thyroid issues",
+      "chemotherapy": "Recent chemotherapy",
+      "technique": "Technique",
+      "classic": "Classic",
+      "brazilian_v": "Brazilian V",
+      "hawaiian_v": "Hawaiian V",
+      "egyptian_v": "Egyptian V",
+      "style": "Style",
+      "style_natural": "Natural",
+      "style_cat_eye": "Cat Eye",
+      "style_squirrel": "Squirrel",
+      "style_doll": "Doll",
+      "thickness": "Thickness",
+      "curl": "Curl",
+      "brand": "Brand",
+      "technician_note": "This section will be completed by your technician during the appointment.",
+      "notes": "Additional notes",
+      "notes_placeholder": "Allergies, special preferences, etc.",
+      "photo_permission": "I authorize Bonita Rituals to take and publish photos of my work on social media.",
+      "photo_tag_username": "Instagram username to tag me (optional)",
+      "photo_tag_placeholder": "@yourusername",
+      "age_confirmed": "I confirm that I am 18 years of age or older.",
+      "signature": "Digital signature"
+    },
+    "consent_body": "By signing this form, I confirm that the information provided is correct and that I understand the aftercare instructions. I accept the terms and conditions of Bonita Rituals services.",
+    "yes": "Yes",
+    "no": "No",
+    "submit": "Sign & Submit",
+    "submitting": "Submitting...",
+    "download_pdf": "Download PDF",
+    "confirmation_title": "Form submitted!",
+    "confirmation_body": "Thank you, your consent form has been recorded.",
+    "clear_signature": "Clear signature",
+    "sign_here": "Sign here",
+    "errors": {
+      "required": "This field is required",
+      "phone_invalid": "Invalid phone number",
+      "signature_required": "Signature is required",
+      "age_required": "You must confirm your age",
+      "submit_failed": "An error occurred. Please try again."
+    }
+  },
+  "dashboard": {
+    "title": "Clients",
+    "new_client": "New client",
+    "search_placeholder": "Search by name or phone...",
+    "columns": {
+      "name": "Name",
+      "phone": "Phone",
+      "registered": "Registered",
+      "last_service": "Last service",
+      "service_type": "Type",
+      "payment": "Payment",
+      "signed": "Signed",
+      "actions": "Actions"
+    },
+    "status": {
+      "paid": "Paid",
+      "pending": "Pending",
+      "signed": "Signed",
+      "unsigned": "Unsigned"
+    },
+    "service_types": {
+      "new_set": "New set",
+      "fill": "Fill",
+      "removal": "Removal"
+    },
+    "filters": {
+      "all": "All",
+      "paid": "Paid",
+      "pending_payment": "Pending payment",
+      "signed": "Signed",
+      "unsigned": "Unsigned"
+    },
+    "no_clients": "No clients registered yet.",
+    "no_results": "No results found.",
+    "view_client": "View detail"
+  },
+  "client_detail": {
+    "back": "← Back",
+    "registered": "Registered on",
+    "contact": "Contact",
+    "consent_history": "Consent history",
+    "service_history": "Service history",
+    "add_service": "Add service",
+    "download_pdf": "Download PDF",
+    "mark_paid": "Mark as paid",
+    "notes": "Notes",
+    "save_notes": "Save notes",
+    "no_consents": "No consent forms on file.",
+    "no_services": "No services recorded.",
+    "service_form": {
+      "date": "Service date",
+      "type": "Service type",
+      "price": "Price (CAD)",
+      "notes": "Service notes",
+      "save": "Save service"
+    }
+  },
+  "login": {
+    "title": "Technician Login",
+    "email": "Email address",
+    "password": "Password",
+    "submit": "Sign in",
+    "submitting": "Signing in...",
+    "error": "Incorrect email or password."
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}
