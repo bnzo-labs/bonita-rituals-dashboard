@@ -10,6 +10,17 @@
       "consent_text": "Consentimiento informado",
       "photo": "Permiso de fotos"
     },
+    "acknowledgements": [
+      "Entiendo que las extensiones de pestañas implican la aplicación y/o remoción de pestañas artificiales y que existen riesgos potenciales asociados con este servicio.",
+      "Entiendo que las extensiones de pestañas serán aplicadas de acuerdo con mis pestañas naturales y la forma de mis ojos, según lo determine la técnica de pestañas, con el fin de preservar la salud de mis pestañas naturales.",
+      "Entiendo que puede ocurrir irritación temporal, sensibilidad, picazón o incomodidad, y que los parches debajo de los ojos, cintas o extensiones pueden causar una reacción alérgica.",
+      "Acepto que si experimento alguna reacción o incomodidad, contactaré a mi técnica de pestañas y buscaré atención médica si es necesario, por mi cuenta.",
+      "Entiendo que el cuidado posterior es esencial para la duración de las extensiones y que no seguir las instrucciones puede resultar en la pérdida prematura de las pestañas.",
+      "Entiendo que el procedimiento requiere mantener los ojos cerrados mientras estoy recostada durante un período prolongado, que puede durar hasta cuatro (4) horas.",
+      "Este consentimiento aplica para el servicio de hoy y futuros servicios. Confirmo que tengo más de 18 años. Si soy menor de 18, un padre o tutor debe firmar.",
+      "Entiendo que la duración de las extensiones varía de persona a persona y que no se puede garantizar cuánto tiempo durarán.",
+      "Libero a Bonita Rituals y a mi técnica de pestañas de cualquier responsabilidad relacionada con este servicio, incluyendo reacciones causadas por alergias o medicamentos conocidos o desconocidos, y entiendo que se tomarán todas las precauciones razonables."
+    ],
     "fields": {
       "full_name": "Nombre y apellido",
       "full_name_placeholder": "Tu nombre completo",

@@ -10,6 +10,17 @@
       "consent_text": "Consentement éclairé",
       "photo": "Autorisation photo"
     },
+    "acknowledgements": [
+      "Je comprends que les extensions de cils impliquent l’application et/ou le retrait de cils artificiels et qu’il existe des risques potentiels associés à ce service.",
+      "Je comprends que les extensions de cils seront appliquées en fonction de mes cils naturels et de la forme de mes yeux, selon l’évaluation de la technicienne en cils, afin de préserver la santé de mes cils naturels.",
+      "Je comprends qu’une irritation temporaire, une sensibilité, des démangeaisons ou un inconfort peuvent survenir et que les patchs sous les yeux, les rubans ou les extensions de cils peuvent provoquer une réaction allergique.",
+      "J’accepte que si je ressens une réaction ou un inconfort, je contacterai ma technicienne en cils et consulterai un professionnel de la santé si nécessaire, à mes propres frais.",
+      "Je comprends que les soins après la pose sont essentiels pour la tenue des extensions et que le non-respect des instructions peut entraîner une perte prématurée des cils.",
+      "Je comprends que la procédure nécessite de garder les yeux fermés en position allongée pendant une période prolongée pouvant aller jusqu’à quatre (4) heures.",
+      "Ce consentement s’applique au service d’aujourd’hui ainsi qu’aux services futurs. Je confirme avoir plus de 18 ans. Si j’ai moins de 18 ans, un parent ou tuteur doit signer.",
+      "Je comprends que la tenue des extensions varie d’une personne à l’autre et qu’aucune garantie ne peut être donnée quant à leur durée.",
+      "Je dégage Bonita Rituals et ma technicienne en cils de toute responsabilité liée à ce service, y compris les réactions causées par des allergies ou des médicaments connus ou inconnus, et je comprends que toutes les précautions raisonnables seront prises."
+    ],
     "fields": {
       "full_name": "Nom complet",
       "full_name_placeholder": "Votre nom complet",

@@ -10,6 +10,17 @@
       "consent_text": "Informed Consent",
       "photo": "Photo Permission"
     },
+    "acknowledgements": [
+      "I understand that eyelash extensions involve the application and/or removal of artificial lashes and that there are potential risks associated with this service.",
+      "I understand that eyelash extensions will be applied according to my natural lashes and eye shape, as determined by the lash technician, in order to preserve the health of my natural lashes.",
+      "I understand that temporary irritation, sensitivity, itching, or discomfort may occur and that under-eye pads, tapes, or lash extensions may cause an allergic reaction.",
+      "I agree that if I experience any reaction or discomfort, I will contact my lash technician and seek medical advice if necessary, at my own expense.",
+      "I understand that proper aftercare is essential for lash retention and that failure to follow aftercare instructions may result in premature lash loss.",
+      "I understand that the procedure requires keeping my eyes closed while lying down for an extended period of time, which may last up to four (4) hours.",
+      "This consent applies to today’s service and future services. I confirm that I am over 18 years of age. If under 18, a parent or guardian must sign.",
+      "I understand that lash retention varies from person to person and that no guarantee can be made regarding the duration of eyelash extensions.",
+      "I release Bonita Rituals and my lash technician from liability related to this service, including reactions caused by known or unknown allergies or medications, and understand that all reasonable precautions will be taken."
+    ],
     "fields": {
       "full_name": "Full name",
       "full_name_placeholder": "Your full name",

@@ -298,7 +298,19 @@ export function ConsentForm({ initialLocale, allMessages }: ConsentFormProps) {
           <SectionDivider title={t('sections.consent_text')} />
           <div className="px-5 sm:px-8 pb-7 space-y-5">
 
+            {Array.isArray((allMessages[locale] as any)?.consent?.acknowledgements) && (
+              <div className="space-y-3">
+                {(allMessages[locale] as any).consent.acknowledgements.map((item: string, i: number) => (
+                  <p key={i} className="text-[14px] text-charcoal/80 leading-relaxed">
+                    <span className="mr-2">{i + 1}.</span>
+                    {item}
+                  </p>
+                ))}
+              </div>
+            )}
+
             <p className="text-[15px] text-charcoal/80 leading-relaxed">{t('consent_body')}</p>
+
 
             <div data-error={errors.age ? 'true' : undefined}>
               <CustomCheckbox
@@ -315,7 +327,7 @@ export function ConsentForm({ initialLocale, allMessages }: ConsentFormProps) {
                 onChange={(dataUrl) => setForm({ ...form, signature_data_url: dataUrl })}
                 error={!!errors.signature}
                 signHereLabel={t('sign_here')}
-                clearLabel={t('clear_signature')}
+                clearLabel={t('fields.clear_signature')}
               />
               {errors.signature && <p className="text-danger text-[13px]">{errors.signature}</p>}
             </div>
